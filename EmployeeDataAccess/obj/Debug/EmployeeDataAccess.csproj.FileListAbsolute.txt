@@ -1,0 +1,12 @@
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\siddharth-project\DotNet-Project\Employee-Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
